@@ -1,16 +1,19 @@
 @font-face {
   font-family: BrixSans;
   src: url(BrixSansBold.otf);
+  src: url(BrixSansBold.ttf);
 }
 
 @font-face {
   font-family: BrixSans;
   src: url("fonts/Brix-sans-medium.otf");
+  src: url("fonts/Brix-sans-medium.ttf");
 }
 
 @font-face {
   font-family: BrixSans;
   src: url("fonts/Brix-sans-light.otf");
+  src:url("fonts/Brix-sans-light.ttf")
 }
 
 .hero {
